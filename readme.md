@@ -15,3 +15,4 @@
 
 ```
 3. #### ctrl+mouse left click on terminal url
+![Alt text](https://raw.githubusercontent.com/nahidfarazi/Local-Network-file_share/refs/heads/main/terminal.png)
