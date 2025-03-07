@@ -1,7 +1,7 @@
 ## Local Network file share system 
 
 ### make sure you have a files folder in root drictory
-![alt text]([http://url/to/img.png](https://github.com/nahidfarazi/Local-Network-file_share/blob/main/files_folder.png))
+![Alt text](https://raw.githubusercontent.com/nahidfarazi/Local-Network-file_share/refs/heads/main/files_folder.png)
 
 1. #### clone project follow command
 ```sh 
