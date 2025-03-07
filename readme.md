@@ -3,7 +3,7 @@
 ### make sure you have a files folder in root drictory
 1. #### clone project follow command
 ```sh 
-    git clone 
+    git clone https://github.com/nahidfarazi/Local-Network-file_share.git
 
 ```
 2. #### run command start server
