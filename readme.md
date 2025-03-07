@@ -3,6 +3,8 @@
 ### make sure you have a files folder in root drictory
 ![Alt text](https://raw.githubusercontent.com/nahidfarazi/Local-Network-file_share/refs/heads/main/files.png)
 
+``` your all data or files put in files folder if you want to share your local network ```
+
 1. #### clone project follow command
 ```sh 
     git clone https://github.com/nahidfarazi/Local-Network-file_share.git
